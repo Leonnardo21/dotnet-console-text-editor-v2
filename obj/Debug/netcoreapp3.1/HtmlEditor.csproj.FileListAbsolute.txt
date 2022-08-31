@@ -1,0 +1,14 @@
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.exe
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.deps.json
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.runtimeconfig.json
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.runtimeconfig.dev.json
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.dll
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.pdb
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.csproj.AssemblyReference.cache
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.AssemblyInfo.cs
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.dll
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.pdb
+C:\Users\leoso\source\repos\Balta.io\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.genruntimeconfig.cache
